@@ -1,2 +1,2 @@
-# docker-workshop
+# Data-engineering-workshop
 Workshop codespaces 
